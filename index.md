@@ -256,7 +256,7 @@ To elevate beyond prose, here's the aligned mapping, augmented with System 2 pre
 
 | Pentad Stage | Mathematical Formalism | Autoencoder Mapping | Governance Archetype | Dynamical Invariant | Historical Operator |
 |--------------|------------------------|---------------------|----------------------|---------------------|---------------------|
-| **1. Chaos** | $E, x) ∈ ℳ$ (input manifold) | Raw high-dim input layer | Calibrator | Volume-preserving flow (Liouville) | Substrate invariance (e.g., TCP/IP protocols) |
+| **1. Chaos** | $(E, x) ∈ ℳ$ (input manifold) | Raw high-dim input layer | Calibrator | Volume-preserving flow (Liouville) | Substrate invariance (e.g., TCP/IP protocols) |
 | **2. Data + Loss** | **$E(t \mid x) + ε$** (conditional expectation + noise) | Reconstruction objective + regularization | Instigator | ε-symmetry (time-reversible perturbation) | Disequilibrium spark (e.g., ARPANET packet loss → internet) |
 | **3. Minimization** | $dE_x / dt = -∇E$ (gradient flow) | Backprop / SGD descent | Attractor | Lyapunov stability (basin contraction) | Optimization heuristics (e.g., PageRank convergence) |
 | **4. Governor = UX/UI** | $dE_{\bar{x}} / dt ± √(d²E_x / dt²$ (avg. flow ± Hessian curvature) | Latent manifold shaping via affordances | Governor | Information-geometric metric (curvature tensor) | Interface hegemony (e.g., iPhone multitouch → app ecosystems) |
