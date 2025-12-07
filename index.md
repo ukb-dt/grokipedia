@@ -20,7 +20,7 @@
  
 
 
-# Preface
+# [Preface](https://ukb-dt.github.io/fin-00/)
     
 This document is an invitation to think with surgical curiosity about how learning systems, design, and history braid together to steer entire societies. What follows is not a polished manifesto or a piece of mystical prophecy — it is a compact, working theory: a five-stage lens (the *Autoencoder Pentad*) that treats UX/UI as a formal governor of optimisation dynamics. I offer math where it clarifies, metaphor where it illuminates, and historical vignettes where the theory meets messy human consequence. Read it as a careful thought experiment that aims to be useful, not untouchable.
 
