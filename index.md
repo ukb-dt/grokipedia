@@ -597,7 +597,7 @@ Gradient descent is the **Encoding Scheme**. It attempts to compress the high-en
 
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
-  <img src="xai/encoder-optimization-algorithm.jpeg" 
+  <img src="xAI/encoder-optimization-algorithm.jpeg" 
        alt="Encoder Optimization Algorithm" 
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 80vh;">
 </div>
