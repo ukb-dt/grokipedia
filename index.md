@@ -616,7 +616,11 @@ Here, $\varepsilon$ is the irreducible noise (thermal noise) of the physical sub
 Gradient descent is the **Encoding Scheme**. It attempts to compress the high-entropy source $X$ into a lower-dimensional signal that satisfies the distortion criterion.
 
 
-[Image of Shannon communication system diagram]
+<div style="display: flex; justify-content: center; margin: 2rem 0;">
+  <img src="xai/encoder-optimization-algorithm.jpeg" 
+       alt="Encoder Optimization Algorithm" 
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-height: 80vh;">
+</div>
 
 *In this context, the "Encoder" is the optimization algorithm (Backprop/SGD).*
 
